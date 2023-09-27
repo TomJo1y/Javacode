@@ -1,2 +1,2 @@
 # Javacode
-Java Language Learning Notes
+Java Language Learning Notes for myself
