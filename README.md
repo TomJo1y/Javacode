@@ -1,3 +1,2 @@
 # Javacode
-Java Language Learning Notes  
-itheima-Java入门到精通课程代码
+itheima-Java入门到精通课程代码  
